@@ -13,11 +13,11 @@ October 14th, 2020.
 **| DAY 13 |***
 
 ## My Progress
-|  [Day 1](https://github.com/StevenACZ/component-library-essentials-StevenACZ)  |  [Day 2](https://github.com/StevenACZ/component-library-flexbox-StevenACZ)  |  [Day 3](https://github.com/StevenACZ/component-library-forms-StevenACZ)  |  [day 4](https://github.com/StevenACZ/component-library-tables-StevenACZ)  | 
+|  [Day 1](https://github.com/StevenACZ/component-library-essentials-StevenACZ)  |  [Day 2](https://github.com/StevenACZ/component-library-flexbox-StevenACZ)  |  [Day 3](https://github.com/StevenACZ/component-library-forms-StevenACZ)  |  [Day 4](https://github.com/StevenACZ/component-library-tables-StevenACZ)  | [Day 5](https://github.com/StevenACZ/week1-team5)
 
-[Day 5 ](https://github.com/StevenACZ/component-library-grid-StevenACZ) |  [Day 6](https://github.com/StevenACZ/component-library-responsive-StevenACZ) | [Day 7]() | [Day 8]() | [Day 9]() | [Day 10]() |
+[Day 6 ](https://github.com/StevenACZ/component-library-grid-StevenACZ) |  [Day 7](https://github.com/StevenACZ/component-library-responsive-StevenACZ) | [Day 8](https://github.com/StevenACZ/component-library-animations-a11y-StevenACZ) | [Day 9](https://github.com/StevenACZ/html-css-individual-StevenACZ) | [Day 10](https://github.com/StevenACZ/week2-team1)
 
-| [Day 11]() | [Day 12]() | Day 13 | Day 14 | Day 15 | Day 16 | Day 17 | Day 18 | Day 19 | Day 20 |
+| [Day 11] | Day 12 | Day 13 | Day 14 | Day 15 | Day 16 | Day 17 | Day 18 | Day 19 | Day 20 |
 
-| [Day 21]() | Day 22 | Day 23 | Day 24 | Day 25 | Day 26 | Day 27 | Day 28 |
+| [Day 21] | Day 22 | Day 23 | Day 24 | Day 25 | Day 26 | Day 27 | Day 28 |
  
