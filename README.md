@@ -17,7 +17,7 @@ October 14th, 2020.
 
 |  [Day 6 ](https://github.com/StevenACZ/component-library-grid-StevenACZ) |  [Day 7](https://github.com/StevenACZ/component-library-responsive-StevenACZ) | [Day 8](https://github.com/StevenACZ/component-library-animations-a11y-StevenACZ) | [Day 9](https://github.com/StevenACZ/html-css-individual-StevenACZ) | [Day 10](https://github.com/StevenACZ/week2-team1)
 
-| [Day 11](https://github.com/StevenACZ/ruby-basics-1-StevenACZ) | [Day 12](https://github.com/StevenACZ/ruby-basics-2-StevenACZ)| [Day 13](https://github.com/StevenACZ/ruby-methods-StevenACZ) | Day 14 | Day 15
+| [Day 11](https://github.com/StevenACZ/ruby-basics-1-StevenACZ) | [Day 12](https://github.com/StevenACZ/ruby-basics-2-StevenACZ)| [Day 13](https://github.com/StevenACZ/ruby-methods-StevenACZ) | Day 14 | [Day 15](https://github.com/StevenACZ/w3-calencli-w3ex-team5)
 
 | [Day 16](https://github.com/StevenACZ/ruby-blocks-StevenACZ) | Day 17 | Day 18 | Day 19 | Day 20
 
