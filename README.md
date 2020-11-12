@@ -19,7 +19,7 @@ October 14th, 2020.
 
 | [Day 11](https://github.com/StevenACZ/ruby-basics-1-StevenACZ) | [Day 12](https://github.com/StevenACZ/ruby-basics-2-StevenACZ)| [Day 13](https://github.com/StevenACZ/ruby-methods-StevenACZ) | [Day 14](https://github.com/StevenACZ/todos_ruby) | [Day 15](https://github.com/StevenACZ/w3-calencli-w3ex-team5)
 
-| [Day 16](https://github.com/StevenACZ/ruby-blocks-StevenACZ) | [Day 17](https://github.com/StevenACZ/ruby-classes-StevenACZ) | Day 18 | Day 19 | Day 20
+| [Day 16](https://github.com/StevenACZ/ruby-blocks-StevenACZ) | [Day 17](https://github.com/StevenACZ/ruby-classes-StevenACZ) | [Day 18](https://github.com/StevenACZ/ruby-modules-StevenACZ) | Day 19 | Day 20
 
 | Day 21 | Day 22 | Day 23 | Day 24 | Day 25
 
