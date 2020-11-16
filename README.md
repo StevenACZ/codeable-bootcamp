@@ -21,7 +21,7 @@ October 14th, 2020.
 
 | [Day 16](https://github.com/StevenACZ/ruby-blocks-StevenACZ) | [Day 17](https://github.com/StevenACZ/ruby-classes-StevenACZ) | [Day 18](https://github.com/StevenACZ/ruby-modules-StevenACZ) | [Day 19](https://github.com/StevenACZ/Practice-week-4) | [Day 20](https://github.com/StevenACZ/pokemon-ruby-w4-team13)
 
-| Day 21 | Day 22 | Day 23 | Day 24 | Day 25
+| [Day 21](https://github.com/StevenACZ/ruby-files-StevenACZ) | Day 22 | Day 23 | Day 24 | Day 25
 
 | Day 26 | Day 27 | Day 28 | Day 29 | Day 30
  
