@@ -10,7 +10,7 @@ October 14th, 2020.
 2. That me like programming :D
 
 ## Current
-**| DAY 25 |***
+**| DAY 26 |***
 
 ## My Progress
 |  [Day 1](https://github.com/StevenACZ/component-library-essentials-StevenACZ)  |  [Day 2](https://github.com/StevenACZ/component-library-flexbox-StevenACZ)  |  [Day 3](https://github.com/StevenACZ/component-library-forms-StevenACZ)  |  [Day 4](https://github.com/StevenACZ/component-library-tables-StevenACZ)  | [Day 5](https://github.com/StevenACZ/week1-team5)
@@ -23,5 +23,5 @@ October 14th, 2020.
 
 | [Day 21](https://github.com/StevenACZ/ruby-files-StevenACZ) | [Day 22](https://github.com/StevenACZ/ruby-regex-StevenACZ) | [Day 23](https://github.com/StevenACZ/ruby-csv-json-StevenACZ) | [Day 24](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Day 25](https://github.com/StevenACZ/ruby-csv-json-StevenACZ)
 
-| Day 26 | Day 27 | Day 28 | Day 29 | Day 30
+| [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | Day 27 | Day 28 | Day 29 | Day 30
  
