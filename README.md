@@ -23,5 +23,5 @@ October 14th, 2020.
 
 | [Day 21](https://github.com/StevenACZ/ruby-files-StevenACZ) | [Day 22](https://github.com/StevenACZ/ruby-regex-StevenACZ) | [Day 23](https://github.com/StevenACZ/ruby-csv-json-StevenACZ) | [Day 24](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Day 25](https://github.com/StevenACZ/ruby-csv-json-StevenACZ)
 
-| [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | Day 27 | Day 28 | Day 29 | Day 30
+| [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | [Day 27](https://github.com/StevenACZ/ruby-http-StevenACZ) | Day 28 | Day 29 | Day 30
  
