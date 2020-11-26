@@ -29,6 +29,4 @@ October 14th, 2020.
  
  | [Chairdnb](https://github.com/StevenACZ/week1-team5) | [Disain](https://github.com/StevenACZ/component-library-animations-a11y-StevenACZ) | [Angrybirds Slingshot Stories](https://github.com/StevenACZ/html-css-individual-StevenACZ)
  
- | [Angrybirds](https://github.com/StevenACZ/week2-team1) | [Todos](https://github.com/StevenACZ/todos_ruby) | [calencli](https://github.com/StevenACZ/w3-calencli-w3ex-team5)
- 
- | [Pokemon](https://github.com/StevenACZ/pokemon-ruby-w4-team13) | [Trello](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Clivia](https://github.com/StevenACZ/clivia-generator-StevenACZ)
+ | [Angrybirds](https://github.com/StevenACZ/week2-team1) | [Todos](https://github.com/StevenACZ/todos_ruby) | [Pokemon](https://github.com/StevenACZ/pokemon-ruby-w4-team13) | [Trello](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Clivia](https://github.com/StevenACZ/clivia-generator-StevenACZ)
