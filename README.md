@@ -23,10 +23,10 @@ October 14th, 2020.
 
 | [Day 21](https://github.com/StevenACZ/ruby-files-StevenACZ) | [Day 22](https://github.com/StevenACZ/ruby-regex-StevenACZ) | [Day 23](https://github.com/StevenACZ/ruby-csv-json-StevenACZ) | [Day 24](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Day 25](https://github.com/StevenACZ/clin-boards-w5-trello-peruano)
 
-| [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | [Day 27](https://github.com/StevenACZ/ruby-http-StevenACZ) | [Day 28](https://github.com/StevenACZ/clivia-generator-StevenACZ) | Day 29 | Day 30
+| [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | [Day 27](https://github.com/StevenACZ/ruby-http-StevenACZ) | [Day 28](https://github.com/StevenACZ/clivia-generator-StevenACZ) | [Day 29](https://github.com/StevenACZ/expensable-cli-w6-team11-xds) | [Day 30](https://github.com/StevenACZ/expensable-cli-w6-team11-xds)
  
  ## Projects
  
  | [Chairdnb](https://github.com/StevenACZ/week1-team5) | [Disain](https://github.com/StevenACZ/component-library-animations-a11y-StevenACZ) | [Angrybirds Slingshot Stories](https://github.com/StevenACZ/html-css-individual-StevenACZ)
  
- | [Angrybirds](https://github.com/StevenACZ/week2-team1) | [Todos](https://github.com/StevenACZ/todos_ruby) | [Pokemon](https://github.com/StevenACZ/pokemon-ruby-w4-team13) | [Trello](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Clivia](https://github.com/StevenACZ/clivia-generator-StevenACZ)
+ | [Angrybirds](https://github.com/StevenACZ/week2-team1) | [Todos](https://github.com/StevenACZ/todos_ruby) | [Pokemon](https://github.com/StevenACZ/pokemon-ruby-w4-team13) | [Trello](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Clivia](https://github.com/StevenACZ/clivia-generator-StevenACZ) | [Expensable CLi](https://github.com/StevenACZ/expensable-cli-w6-team11-xds)
