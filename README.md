@@ -13,6 +13,8 @@ October 14th, 2020.
 **| DAY 30 |***
 
 ## My Progress
+
+#### First month
 |  [Day 1](https://github.com/StevenACZ/component-library-essentials-StevenACZ)  |  [Day 2](https://github.com/StevenACZ/component-library-flexbox-StevenACZ)  |  [Day 3](https://github.com/StevenACZ/component-library-forms-StevenACZ)  |  [Day 4](https://github.com/StevenACZ/component-library-tables-StevenACZ)  | [Day 5](https://github.com/StevenACZ/week1-team5)
 
 |  [Day 6 ](https://github.com/StevenACZ/component-library-grid-StevenACZ) |  [Day 7](https://github.com/StevenACZ/component-library-responsive-StevenACZ) | [Day 8](https://github.com/StevenACZ/component-library-animations-a11y-StevenACZ) | [Day 9](https://github.com/StevenACZ/html-css-individual-StevenACZ) | [Day 10](https://github.com/StevenACZ/week2-team1)
@@ -25,8 +27,7 @@ October 14th, 2020.
 
 | [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | [Day 27](https://github.com/StevenACZ/ruby-http-StevenACZ) | [Day 28](https://github.com/StevenACZ/clivia-generator-StevenACZ) | [Day 29](https://github.com/StevenACZ/expensable-cli-w6-team11-xds) | [Day 30](https://github.com/StevenACZ/expensable-cli-w6-team11-xds)
 
-
-
+#### Second month
 |  [Day 1]  |  [Day 2]  |  [Day 3]  |  [Day 4]  | [Day 5]
 
 |  [Day 6 ] |  [Day 7] | [Day 8] | [Day 9] | [Day 10]
