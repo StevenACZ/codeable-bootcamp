@@ -28,7 +28,7 @@ October 14th, 2020.
 | [Day 26](https://github.com/StevenACZ/ruby-exceptions-testing-StevenACZ) | [Day 27](https://github.com/StevenACZ/ruby-http-StevenACZ) | [Day 28](https://github.com/StevenACZ/clivia-generator-StevenACZ) | [Day 29](https://github.com/StevenACZ/expensable-cli-w6-team11-xds) | [Day 30](https://github.com/StevenACZ/expensable-cli-w6-team11-xds)
 
 #### Second month
-| [Day 31](https://github.com/StevenACZ/sql-movielens-1-StevenACZ) | [Day 32](https://github.com/StevenACZ/sql-movielens-2-StevenACZ) | [Day 33] | [Day 34] | [Day 35]
+| [Day 31](https://github.com/StevenACZ/sql-movielens-1-StevenACZ) | [Day 32](https://github.com/StevenACZ/sql-movielens-2-StevenACZ) | [Day 33](https://github.com/StevenACZ/sql-ddl-StevenACZ) | [Day 34] | [Day 35]
 
 | [Day 36] | [Day 37] | [Day 38] | [Day 39] | [Day 40]
 
