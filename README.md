@@ -32,7 +32,7 @@ October 14th, 2020.
 
 | [Day 36](https://github.com/StevenACZ/rails-intro-StevenACZ) | [Day 37] | [Day 38](https://github.com/StevenACZ/rails-models-StevenACZ) | [Day 39](https://github.com/StevenACZ/rails-models-StevenACZ) | [Day 40]
 
-| [Day 41] | [Day 42] | [Day 43] | [Day 44] | [Day 45]
+| [Day 41](https://github.com/StevenACZ/friends-rails) | [Day 42] | [Day 43] | [Day 44] | [Day 45]
 
 | [Day 46] | [Day 47] | [Day 48] | [Day 49] | [Day 50]
 
