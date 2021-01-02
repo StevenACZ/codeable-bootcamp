@@ -3,7 +3,7 @@
 **My days in the Codeable bootcamp, in this kind of directory I will compile each individual project as a group every day.**
 
 #### Start Date
-October 15th, 2020.
+October 16th, 2020.
 
 ## Rules
 1. I will push code to GitHub every day so that anyone can see my progress.
