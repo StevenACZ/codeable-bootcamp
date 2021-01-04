@@ -10,7 +10,7 @@ October 17th, 2020.
 2. That me like programming :D
 
 ## Current
-**| DAY 43 |***
+**| DAY 44 |***
 
 ## My Progress
 
