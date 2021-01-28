@@ -44,4 +44,4 @@ October 14th, 2020.
  
  | [Chairdnb](https://github.com/StevenACZ/week1-team5) | [Disain](https://github.com/StevenACZ/component-library-animations-a11y-StevenACZ) | [Angrybirds Slingshot Stories](https://github.com/StevenACZ/html-css-individual-StevenACZ)
  
- | [Angrybirds](https://github.com/StevenACZ/week2-team1) | [Todos](https://github.com/StevenACZ/todos_ruby) | [Pokemon](https://github.com/StevenACZ/pokemon-ruby-w4-team13) | [Trello](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Clivia](https://github.com/StevenACZ/clivia-generator-StevenACZ) | [Expensable CLi](https://github.com/StevenACZ/expensable-cli-w6-team11-xds)
+ | [Angrybirds](https://github.com/StevenACZ/week2-team1) | [Todos](https://github.com/StevenACZ/todos_ruby) | [Pokemon](https://github.com/StevenACZ/pokemon-ruby-w4-team13) | [Trello](https://github.com/StevenACZ/clin-boards-w5-trello-peruano) | [Clivia](https://github.com/StevenACZ/clivia-generator-StevenACZ) | [Expensable CLi](https://github.com/StevenACZ/expensable-cli-w6-team11-xds) | [color-game](https://github.com/StevenACZ/color-game) | [ToDoList](https://github.com/StevenACZ/ToDo-List-JS)
